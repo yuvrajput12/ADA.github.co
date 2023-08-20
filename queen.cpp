@@ -52,4 +52,3 @@ cout << "No solution exists." << endl;
 }
 return 0;
 }
-Output :
